@@ -1,0 +1,8 @@
+1,Barfi,Shah Rukh Khan,Kajol,Hindi,Romantic,2012-02-05,888555222
+2,Avengers,Tony,Kajol,English,Romantic,2013-04-03,55554455
+3,Three Idiots,Shah Rukh Khan,Kajol,Hindi,Romantic,2016-10-21,4554545454
+4,Student of the Year,Shah Rukh Khan,Kajol,Hindi,Romantic,2018-12-24,544545
+5,Talaash,Shah Rukh Khan,Kajol,Hindi,Romantic,2019-11-14,4545455
+6,Madagaskar,Shah Rukh Khan,Kajol,english,Romantic,2020-08-23,2232323
+7,Sparsh,Shah Rukh Khan,Kajol,Marathi,Romantic,2021-09-12,454121212
+8,Mi Shivaji,Shah Rukh Khan,Kajol,marathi,Romantic,2021-05-15,8522652
